@@ -13,3 +13,25 @@ probando git
 
 ## [![south park](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.…kenny-cartman-kyle-stan-south-park-1620809044.jpg "south park")](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.…kenny-cartman-kyle-stan-south-park-1620809044.jpg "south park")
 
+####HTML code
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <mate charest="utf-8" />
+        <title>Hello world!</title>
+    </head>
+    <body>
+        <h1>Hello world!</h1>
+    </body>
+</html>
+```
+
+###Images
+
+Image:
+
+![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+
+> Follow your heart.// Sigue a tu corazón.
