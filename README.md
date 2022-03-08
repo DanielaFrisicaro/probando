@@ -20,10 +20,10 @@ probando git
 <html>
     <head>
         <mate charest="utf-8" />
-        <title>Hello world!</title>
+        <title>Probando GIT</title>
     </head>
     <body>
-        <h1>Hello world!</h1>
+        <h1>Hello world! Hola Mundo</h1>
     </body>
 </html>
 ```
