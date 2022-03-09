@@ -11,7 +11,7 @@ probando git
 
 ## :smiley:
 
-## [![south park](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.…kenny-cartman-kyle-stan-south-park-1620809044.jpg "south park")](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.…kenny-cartman-kyle-stan-south-park-1620809044.jpg "south park")
+
 
 ####HTML code
 
